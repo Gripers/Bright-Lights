@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1826b139.css",
+    "main.js": "/static/js/main.91cd47ce.js",
+    "static/media/header.png": "/static/media/header.35ef78bf26d1e89a2201.png",
+    "static/media/performance.png": "/static/media/performance.69196f0bdba23fa47cd2.png",
+    "static/media/girl-listen.png": "/static/media/girl-listen.486dd76a4819acbe11e1.png",
+    "static/media/music.png": "/static/media/music.01a556e0f6f43c46412f.png",
+    "static/media/jiguli.png": "/static/media/jiguli.90498c031883bc665801.png",
+    "static/media/party.png": "/static/media/party.dd6b2b8a14406569f09a.png",
+    "static/media/lazers.png": "/static/media/lazers.be076fbc2ecd16908a15.png",
+    "static/media/beach.png": "/static/media/beach.ccd74c08bed530949b37.png",
+    "static/media/third.png": "/static/media/third.8b8ba7087abe567fb438.png",
+    "static/media/first.png": "/static/media/first.3b689d860b07e22dad5e.png",
+    "static/media/concert.png": "/static/media/concert.65fb67e8ea801640ab1d.png",
+    "static/media/second.png": "/static/media/second.018ca380457d68ea8a1d.png",
+    "static/media/girl-incar.png": "/static/media/girl-incar.0904b9a9e0e9d3d7e1a4.png",
+    "static/media/singer.jpg": "/static/media/singer.0996ebfcecf9ddc8df0d.jpg",
+    "static/media/singerer.jpg": "/static/media/singerer.09dc14afcb6c50e40c60.jpg",
+    "index.html": "/index.html",
+    "main.1826b139.css.map": "/static/css/main.1826b139.css.map",
+    "main.91cd47ce.js.map": "/static/js/main.91cd47ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1826b139.css",
+    "static/js/main.91cd47ce.js"
+  ]
+}
